@@ -1,0 +1,56 @@
+Command: my-tweets 
+Command: my-tweets 
+Command: my-tweets 
+Thu Dec 01 15:55:51 +0000 2016 Some of you may have already noticed that we made an update to the Skystream Updater App.
+
+We added the ability... https://t.co/OFqXV8rITt
+Wed Nov 30 19:30:37 +0000 2016 OK boys and girls, We recently learned that certain cities have started charging a tax for people using streaming... https://t.co/kece8NTeR7
+Tue Nov 29 18:36:22 +0000 2016 We did a video showing you how to change the setting in Exodus to make it an Auto Play or 1 Click addon. Please... https://t.co/mByFcCpIgB
+Tue Nov 29 04:05:20 +0000 2016 1.Order a Skystream Box 2. Save $25 3. Cut Cable 4. Stream Everything for FREE! Aaaannnd GO! #CyberMonday #Sale… https://t.co/Dj5l6bmugH
+Tue Nov 29 02:25:18 +0000 2016 Cyber Monday sale starts now! Don't miss out on getting $25 off of the #1 Cable Cutting TV Box! #CyberMonday #Sale… https://t.co/v3VkuCsiAh
+Mon Nov 28 22:25:13 +0000 2016 Get your Skystream Cable Cutting box today and get $25 off! Save Money and Stream Everything! #CyberMonday #Sale… https://t.co/5akBB7nD4W
+Mon Nov 28 20:25:16 +0000 2016 The Skystream ONE Android TV Box is $25 today! But supplies are limited! Don't miss out! #CyberMonday #Sale… https://t.co/EAGxMnMYug
+Mon Nov 28 18:25:17 +0000 2016 Save $25 off the #1 Cable Cutting Android TV Box on the market! Supplies are limited. Order Now! #CyberMonday #Sale… https://t.co/XMZz4Hwet8
+Mon Nov 28 16:25:16 +0000 2016 Don't miss the Skystream #CyberMonday Blow Out #Sale ! $25 off of all of our Cable Cutting Android TV Boxes!… https://t.co/rJBTmSAvYK
+Mon Nov 28 16:01:33 +0000 2016 ************************Cyber Monday Sale******************************
+
+For Cyber Monday we are continuing the... https://t.co/qcCjp1mnxi
+Mon Nov 28 12:20:22 +0000 2016 Limited Supply of Skystream ONE's are $25 off for #CyberMonday ! Don't miss out on this once a year sale!… https://t.co/th3HJp3FJI
+Mon Nov 28 02:20:25 +0000 2016 $25 off of the Skystream ONE and all of our Cable Cutting packages! Limited Supply Act Now! #BlackFriday #Sale… https://t.co/J17n6aP344
+Mon Nov 28 02:15:24 +0000 2016 Tired of paying your high cable bill? Get a Skystream ONE TV Box and Stream Everything for FREE!! #BlackFriday… https://t.co/QwOnw1MEmY
+Mon Nov 28 00:20:17 +0000 2016 Tired of paying your high cable bill? Get a Skystream ONE TV Box and Stream Everything for FREE! #BlackFriday #Sale… https://t.co/GN36IRzxFW
+Sun Nov 27 21:15:21 +0000 2016 Skystream Black Friday Sale is ending soon!! Don't miss out on $25 off and Free Shipping! #BlackFriday #Sale… https://t.co/etU84jJTw6
+Sun Nov 27 16:45:18 +0000 2016 Still paying for Cable? Bill getting bigger? Order a Skystream TV box and start saving today! #BlackFriday #Sale… https://t.co/lVyPvY8SMo
+Sun Nov 27 02:15:13 +0000 2016 1.Order a Skystream Box 2. Save $25 3. Cut Cable 4. Stream Everything for FREE! Aaaannnd GO!! #BlackFriday #Sale… https://t.co/RnJsNkjMqq
+Sat Nov 26 23:15:40 +0000 2016 Skystream Black Friday Sale is ending soon! Don't miss out on $25 off and Free Shipping! #BlackFriday #Sale… https://t.co/5B2ItPJqym
+Sat Nov 26 20:10:21 +0000 2016 Black Friday sale starts now! Don't miss out on getting $25 off of the #1 Cable Cutting TV Box!! #BlackFriday #Sale… https://t.co/rEIFY6V6xs
+Sat Nov 26 16:10:19 +0000 2016 $25 off of the Skystream ONE and all of our Cable Cutting packages! Limited Supply Act Now! #BlackFriday #Sale… https://t.co/kU2o7np6FN
+Command: spotify-this-song baby got back
+Command: spotify-this-song baby
+Command: spotify-this-song baby
+Command: spotify-this-song baby
+Command: spotify-this-song baby
+Command: spotify-this-song baby
+Command: spotify-this-song baby
+Artist:D.R.A.M., D.R.A.M., Lil Yachty
+Song Name:Broccoli
+Listen Link:https://p.scdn.co/mp3-preview/4858b2a71d5c356c88960cef3e09923e01365631
+Album:Big Baby D.R.A.M.
+Command: spotify-this-song baby got back
+Artist:Sir Mix-A-Lot, Sir Mix-A-Lot
+Song Name:Baby Got Back
+Listen Link:https://p.scdn.co/mp3-preview/b0a018fabd123f76483f1125f05a72f36b230dd8
+Album:Mack Daddy
+Command: spotify-this-song baby got back
+Artist: Sir Mix-A-Lot, Sir Mix-A-Lot
+Song Name: Baby Got Back
+Listen Link: https://p.scdn.co/mp3-preview/b0a018fabd123f76483f1125f05a72f36b230dd8
+Album: Mack Daddy
+Command: movie-this masterminds
+No movie found!
+Command: movie-this mastermind
+No movie found!
+Command: movie-this westworld
+No movie found!
+Command: movie-this westworld
+No movie found!
